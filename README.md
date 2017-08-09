@@ -11,7 +11,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 #### Requirements
   * Arduino UNO or compatible.  I think (but don't know 100%) the GG uses 5V logic, and so you'll want an arduino that uses 5V.  If this causes excessive heat or damage to your GG, Arduino, or controller, see the disclaimer above.
   
-  * Up, Down, Left, Right, 1, 2, and Start wired to the Arduino.  Start should output high on pin 7 to allow for unmodified genesis controllers to work (without pause).
+  * A modified Game Gear with the ability to wire Up, Down, Left, Right, 1, 2, and Start to the Arduino.  Start should output high on pin 7 to allow for unmodified genesis controllers to work (without pause).
 
 #### Instructions
 
