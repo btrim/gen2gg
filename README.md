@@ -40,3 +40,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
      |B/A|6|
      |C/START|7|
      |SELECT|8|
+   3. Flash the software to your arduino.
+   4. Connect your controller and test.
